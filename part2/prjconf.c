@@ -1,0 +1,1 @@
+CONFIG_GPIO=y// enables feaqtures of zephyr allowing program to use gpio pins 
